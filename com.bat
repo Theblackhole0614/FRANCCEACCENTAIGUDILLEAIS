@@ -1,0 +1,1 @@
+gcc .\fran.c -o cutable.exe
